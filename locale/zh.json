@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Go 多账号额度卡片",
+    "description": "为多个 OpenCode Go 订阅 Key 各显示一张额度卡片，点击卡片即可切换当前使用的 Key；当前账号的额度看左下角余额。"
+  }
+}
