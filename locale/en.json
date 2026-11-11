@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Go Account Quota Cards",
+    "description": "One quota card per OpenCode Go subscription key; click a card to switch the key in use, while the active account is detailed in the bottom-left balance panel."
+  }
+}
