@@ -1,0 +1,4 @@
+# Bundle patch for the Go multi-account quota cards (click a card to switch keys).
+- insert:
+    - id: go-quota
+      name: '@local/dsh-go-quota'

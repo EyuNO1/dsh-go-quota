@@ -1,0 +1,14 @@
+# Dependencies
+node_modules/
+
+# Local data / secrets
+accounts.json
+plugin-data/
+.env
+.env.*
+
+# Local tooling / OS noise
+.dsh-vision-router/
+*.log
+.DS_Store
+Thumbs.db
